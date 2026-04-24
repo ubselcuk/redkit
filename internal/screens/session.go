@@ -1,6 +1,7 @@
 package screens
 
 type Session struct {
-	Width  int
-	Height int
+	width  int
+	height int
+	page   int
 }
